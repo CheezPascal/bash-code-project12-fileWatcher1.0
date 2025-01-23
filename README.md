@@ -22,3 +22,13 @@ To use run the program and attach the full path to the file you intend to watch
 
 ./fileWatcher <path/to/file/file>
 
+Testing 
+-------------
+
+I have loaded two sample log files, sample.log and testfile.log 
+In the same path as the application run:
+ ./fileWatcher sample.log 
+
+ you will have an output of the log it generates. 
+
+ to exit press Ctrl + c 
